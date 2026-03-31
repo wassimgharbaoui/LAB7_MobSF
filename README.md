@@ -2,7 +2,7 @@
 
 > **Établissement :** EMSI &nbsp;|&nbsp; **Domaine :** Cybersécurité &nbsp;|&nbsp; **Auteur :** gharbaoui wassim# LAB 7 — Analyse de Sécurité Mobile avec MobSF & DIVA
 
-> **Établissement :** EMSI &nbsp;|&nbsp; **Domaine :** Cybersécurité &nbsp;|&nbsp; **Auteur :** gharbaoui wassim
+
 
 ---
 
